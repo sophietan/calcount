@@ -1,0 +1,25 @@
+
+body {
+  background-color: #3a3238;
+}
+
+h1 {
+  text-align: left;
+  padding: 10px;
+  color: #d282a6;
+}
+
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #3a3238;
+  padding-top: 3px;
+}
+
+.panel {
+  background-color: #f5e3e0;
+  margin: 20px;
+  border-radius: 7px;
+}
